@@ -28,3 +28,7 @@ Aplikacija ScrollingText je izdelana v Android Studiu z uporabo Jave in XML. Nam
 - Android Studio
 - Java
 - XML
+
+## Končni izdelek
+
+<img width="241" height="500" alt="scrolling_text_readme_small" src="https://github.com/user-attachments/assets/e0d74f8a-d893-469c-9d57-05fd607c0969" />
